@@ -1,0 +1,9 @@
+INSERT INTO serviciorest.clientes (nombre, apellido, email, crate_at) VALUES ('Matias', 'Larrea', 'Matias@Larrea.com', '2022-03-08');
+INSERT INTO serviciorest.clientes (nombre, apellido, email, crate_at) VALUES ('Natalia', 'Correa', 'Natalia@Correa.com', '2022-03-08');
+INSERT INTO serviciorest.clientes (nombre, apellido, email, crate_at) VALUES ('Benjamin', 'Larrea', 'Benjamin@larrea.com', '2022-03-08');
+INSERT INTO serviciorest.clientes (nombre, apellido, email, crate_at) VALUES ('Estela', 'Caza', 'Estela@Caza.com', '2022-03-08');
+INSERT INTO serviciorest.clientes (nombre, apellido, email, crate_at) VALUES ('Romina', 'Correa', 'Romina@Correa.com', '2022-03-08');
+INSERT INTO serviciorest.clientes (nombre, apellido, email, crate_at) VALUES ('Carlos', 'Correa', 'Carlos@Correa.com', '2022-03-08');
+INSERT INTO serviciorest.clientes (nombre, apellido, email, crate_at) VALUES ('Nicolas', 'Fiorentino', 'Nicolas@Fiorentino.com', '2022-03-08');
+INSERT INTO serviciorest.clientes (nombre, apellido, email, crate_at) VALUES ('Graciela', 'Perez', 'Graciela@Perez.com', '2022-03-08');
+INSERT INTO serviciorest.clientes (nombre, apellido, email, crate_at) VALUES ('Hector', 'Larrea', 'Hector@larrea.com', '2022-03-08');
